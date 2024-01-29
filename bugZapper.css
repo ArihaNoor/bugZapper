@@ -1,0 +1,162 @@
+*{
+    font-family: 'Calibri';
+}
+#arrange{
+    height: 80px;
+    width: 1580px;
+    border: 3px #FFA101 transparent;
+}
+.img1{
+    display: inline-block;
+    padding-left: 70px;
+}
+.line{
+    display: inline-block;
+    color: #024EA0;
+    padding-left: 140px;
+}
+.icon{
+    display: inline;
+    height: 30px;
+    width: 30px;
+    padding-left: 80px;
+    padding-top: 10px;
+}
+.contact{
+    display: inline-block;
+    color: #FFA101;
+}
+.button{
+    display: inline-block;
+    background: #FFA101;
+    border-radius: 5px;
+    border: none;
+    font-weight: 700;
+    font-family: 'Raleway';
+    font-size: 16px;
+    width: 170px;
+    height: 50px;
+    margin-left: 200px;
+    margin-top: 10px;
+
+}
+
+#content{
+    background-color: black;
+    height: 80px;
+   
+}
+.link{
+    color: white;
+    display: inline-block;
+    margin-left: 70px;
+    padding-top: 30px;
+    text-align: center;
+    text-decoration: none;
+    font-family: 'Raleway';
+    font-size: 20px;
+}
+a:hover{
+    border-bottom: 2px orange solid;
+}
+.link2{
+    display: inline;
+    margin-left: 40px;
+    padding-top: 10px;
+}
+
+#form{
+    width: 350px ;
+    display: inline-block;
+    align-content: center;
+    font-family: 'Calibri';
+    align-content: center;
+    margin-left: 180px;
+    border-radius: 10px;
+}
+.h1{
+    background-color: black;
+    color: white;
+    font-size: 25px;
+    font-family: 'Calibri' ;
+    text-align: center;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    padding-top: 20px;
+    color: #FFA101 ;
+}
+#input{
+    background-color: rgba(240, 235, 239, 0.623);
+    height: 400px;
+    padding-top: 30px;
+    padding-left: 30px;
+}
+.label{
+    font-family: 'Calibri';
+    font-weight: 900;
+}
+.tag{
+    border: 2px rgba(211, 214, 214, 0.692) solid;
+    outline: none;
+    width: 260px;
+    height: 30px;
+    box-shadow: 0 0 20px lightgray;
+}
+.button2{
+    background: #FFA101;
+    border-radius: 5px;
+    border: none;
+    font-weight: 900;
+    font-family: 'Calibri';
+    width: 270px;
+    height: 40px;
+    font-size: 20px;
+
+}
+#arr{
+    width: 1200px;
+    margin-top: 40px; 
+}
+#cont{
+    width: 700px;
+    display: inline-block;
+    text-align: left;
+    margin-left: 130px;
+    
+}
+#content1{
+    background-color:rgba(211, 211, 211, 0.603);
+    height: 40px;
+    border: 2px grey transparent;
+    
+}
+.cont1{
+    color: #024EA0;
+    font-size: 40px;
+}
+.cont2{
+    border: 2px  #ffd001 solid;
+}
+#img{
+    border: 2px  #ffd001 solid;
+    border-radius: 15px;
+    height: 250px;
+    width: 650px;
+    padding-left: 70px;
+}
+#img:hover{
+    box-shadow: 0 0 30px #ffd001;
+}
+#text{
+    background-color: black;
+    color: white;
+}
+.text2{
+    color: #ffd001;
+    text-align: center;
+    font-size: 30px;
+}
+.text3{
+    font-weight: 700;
+    text-align: center;
+}
